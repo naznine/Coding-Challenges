@@ -1,4 +1,4 @@
-# AI/ML Coding Challenges for Bangladesh Garment Industry
+# Coding Challenges for AI/ML Position
 
 This repository contains four coding challenges focused on applying AI and ML techniques to problems in the Bangladesh garment industry. Each challenge is in its own directory with a detailed README.
 
