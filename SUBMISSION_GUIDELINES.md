@@ -34,24 +34,6 @@ For each challenge, ensure you include the following:
 4. Sample Output:
    - Include sample output or results from running your code
 
-## Challenge-Specific Requirements
-
-### Challenge 1: Data Preprocessing for Multilingual Garment Orders
-- Include your preprocessed DataFrame output
-- Explain your approach to language identification and translation
-
-### Challenge 2: Time Series Forecasting for Production Planning
-- Include your 30-day forecast with uncertainty estimates
-- Explain how you handled missing data and incorporated external factors
-
-### Challenge 3: Agentic Workflow for Quality Control
-- Include sample runs of your QualityControlAgent with different inputs
-- Explain your decision-making logic
-
-### Challenge 4: LLM Fine-tuning for Compliance Checking
-- Include your fine-tuned model (or instructions on how to reproduce it)
-- Provide sample outputs of compliance classifications with confidence scores
-
 ## Evaluation Criteria
 
 Your submission will be evaluated based on:
