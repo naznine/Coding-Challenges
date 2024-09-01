@@ -5,7 +5,7 @@ Thank you for participating in our AI/ML Coding Challenges for the Bangladesh Ga
 ## Where to Submit
 
 1. GitHub Repository:
-   - Fork our main challenge repository: https://github.com/SocioFi/Coding-Challenges.git)
+   - Fork our main challenge repository: https://github.com/SocioFi/Coding-Challenges.git
    - Create a new branch for your solution named: `[YourGitHubUsername]-solution`
    - Implement your solution in the appropriate challenge directory
    - Create a pull request to our main repository when you're ready to submit
