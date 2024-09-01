@@ -10,7 +10,7 @@ You're working on an AI assistant for a mobile financial service provider in Ban
 4. Include a confidence score with each classification
 
 ### Sample Input:
-Provide a JSON file with sample user queries in both Bangla and English, along with their corresponding intents.
+product_review.json contains sample user queries in both Bangla and English, along with their corresponding intents.
 
 ### Expected Output:
 A trained model and a function that takes a new user query (in either Bangla or English) and returns:
