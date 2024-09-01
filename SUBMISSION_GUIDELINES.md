@@ -11,7 +11,7 @@ Thank you for participating in our AI/ML Coding Challenges for the Bangladesh Ga
    - Create a pull request to our main repository when you're ready to submit
 
 2. Microsoft Form:
-   - After creating your pull request, fill out our submission form: [Insert your Microsoft Form URL here]
+   - After creating your pull request, fill out our submission form: https://forms.office.com/r/iyJmptEw06
    - You'll need to provide your contact information and the URL of your pull request in this form
 
 ## Submission Requirements
