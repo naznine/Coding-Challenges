@@ -5,7 +5,7 @@ Thank you for participating in our AI/ML Coding Challenges for the Bangladesh Ga
 ## Where to Submit
 
 1. GitHub Repository:
-   - Fork our main challenge repository: [Insert your GitHub repository URL here]
+   - Fork our main challenge repository: https://github.com/SocioFi/Coding-Challenges.git)
    - Create a new branch for your solution named: `[YourGitHubUsername]-solution`
    - Implement your solution in the appropriate challenge directory
    - Create a pull request to our main repository when you're ready to submit
@@ -45,7 +45,7 @@ Your submission will be evaluated based on:
 
 ## Deadline
 
-All submissions must be received by 8 September, 2024. Late submissions may not be considered.
+All submissions must be received by 7 September, 2024 before 23:59 hour. Late submissions may not be considered.
 
 ## Questions and Clarifications
 
