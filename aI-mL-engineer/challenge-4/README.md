@@ -11,7 +11,7 @@ Write a script that:
 4. Includes a function to use the fine-tuned model for classifying new text as compliant or non-compliant
 
 ### Sample Input:
-labor_law_complaint_dataset.csv is small dataset of text snippets labeled as compliant or non-compliant with labor laws.
+labor_law_compliance_dataset.csv is small dataset of text snippets labeled as compliant or non-compliant with labor laws.
 
 ### Expected Output:
 A fine-tuned model and a function that takes new text and returns a compliance classification with a confidence score.
