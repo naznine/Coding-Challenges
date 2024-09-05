@@ -69,7 +69,7 @@ While specific criteria vary by role, all submissions will be evaluated on:
 
 ## Time Frame
 
-You have two days from the date you receive these challenges to submit your solutions. Quality is more important than quantity, so it's better to submit well-thought-out solutions for fewer challenges than rushed attempts at all of them.
+You have 48 hrs from the date you receive these challenges to submit your solutions. Quality is more important than quantity, so it's better to submit well-thought-out solutions for fewer challenges than rushed attempts at all of them.
 
 
 ## Questions and Clarifications
