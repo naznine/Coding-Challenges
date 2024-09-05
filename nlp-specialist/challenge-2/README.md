@@ -10,7 +10,7 @@ You're developing a sentiment analysis model for an e-commerce platform that pri
 4. Provide a way to explain the model's decision (e.g., highlighting key phrases that influenced the sentiment classification)
 
 ### Sample Input:
-Provide a CSV file with Bangla product reviews and their corresponding ratings (1-5 stars).
+ bangla_product_reviews contains Bangla product reviews and their corresponding ratings (1-5 stars).
 
 ### Expected Output:
 A trained model and a function that takes a new Bangla review text and returns:
